@@ -27,9 +27,9 @@
             android:layout_marginEnd="126dp"
             android:layout_marginBottom="10dp"
             android:scaleType="fitStart"
-            android:src="@drawable/arg_programa_logo"
+            android:src="@drawable/logo_argprograma"
             tools:ignore="ContentDescription"
-            tools:src="@drawable/arg_programa_logo" />
+            tools:src="@drawable/logo_argprograma" />
 
         <ImageView
             android:id="@+id/logo_ticmas"
