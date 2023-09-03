@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ComparaTextos</string>
+    <string name="resultado">Ingresar datos</string>
+    <string name="comparar">Comparar</string>
+    <string name="titulo">Textos a Comparar</string>
+    <string name="primera_cadena">Primer Texto</string>
+    <string name="segunda_cadena">Segundo Texto</string>
+</resources>
